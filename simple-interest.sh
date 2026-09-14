@@ -3,7 +3,7 @@
 echo "Enter Principal:"
 read principal
 
-echo "Enter Rate of Intrest:"
+echo "Enter Rate of Interest:"
 read rate
 
 echo "Enter Time Period:"
